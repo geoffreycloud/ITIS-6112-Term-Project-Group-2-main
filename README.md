@@ -43,6 +43,11 @@ Dynamic Map Updates
   <li>Applies filters and search inputs to dynamically update visible map features in real time.</li>
 </ul>
 
+<img width="735" height="385" alt="z_search_bar" src="https://github.com/user-attachments/assets/7e685569-ea65-4e7b-9f33-4afe275ec5e9" />
+<img width="730" height="373" alt="z_entrance_layer" src="https://github.com/user-attachments/assets/d231bbb9-ea88-4952-9388-e739c0720fab" />
+<img width="736" height="385" alt="z_mile_marker_layer" src="https://github.com/user-attachments/assets/d959d39f-28f9-4eac-a065-b8c70a8e156f" />
+<img width="733" height="370" alt="z_trail_layer" src="https://github.com/user-attachments/assets/62e8a593-0f76-4110-a392-1d01a5086362" />
+
 <h3>Backend</h3>
 <p>The backend handles data processing, storage, and serves geospatial information to the frontend. It includes:</p>
 
@@ -84,3 +89,8 @@ Server and Connection Management
   <li>Spatial columns store geometry data such as <code>LineString</code> and <code>MultiLineString</code> types, representing paths and areas on the map.</li>
   <li><code>JSONB</code> columns store flexible, structured properties and metadata for each geographic feature, enabling effective management of both spatial and descriptive information.</li>
 </ul>
+
+<img width="715" height="266" alt="image" src="https://github.com/user-attachments/assets/de15e597-d0ba-41fb-95bf-9161e0541733" />
+<b>First 5 records of the "entrances" table</b>
+<img width="715" height="266" alt="image" src="https://github.com/user-attachments/assets/603efc56-0b52-4c15-8b37-4e33a7f35635" />
+
