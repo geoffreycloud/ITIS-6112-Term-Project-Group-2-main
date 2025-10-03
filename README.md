@@ -96,9 +96,9 @@ Server and Connection Management
 <img width="735" height="385" alt="z_mile_marker_layer" src="https://github.com/user-attachments/assets/d959d39f-28f9-4eac-a065-b8c70a8e156f" />
 <img width="735" height="385" alt="z_trail_layer" src="https://github.com/user-attachments/assets/62e8a593-0f76-4110-a392-1d01a5086362" />
 
-<b>backend</b>
+<p><b>Backend</b></p>
 
-<img width="715" height="266" alt="image" src="https://github.com/user-attachments/assets/de15e597-d0ba-41fb-95bf-9161e0541733" />
+<img width="735" height="385" alt="image" src="https://github.com/user-attachments/assets/de15e597-d0ba-41fb-95bf-9161e0541733" />
 
 <p>First 5 records of the "entrances" table</p>
-<img width="1358" height="814" alt="Screenshot 2025-10-03 123423" src="https://github.com/user-attachments/assets/9e4f0a35-ae45-4ee1-ad28-c0cfd17fedbf" />
+<img width="735" height="385" alt="Screenshot 2025-10-03 123423" src="https://github.com/user-attachments/assets/9e4f0a35-ae45-4ee1-ad28-c0cfd17fedbf" />
