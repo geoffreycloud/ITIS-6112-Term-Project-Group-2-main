@@ -10,6 +10,7 @@ This project is a web-based interactive mapping application built to visualize a
 The backend is built with Node.js and Express.js, and integrates OpenStreetMap (via Nominatim API) and ArcGIS REST services to provide geocoding and real-time data. This tool helps residents, outdoor enthusiasts, and tourists navigate the county’s trail, park, and greenway networks with ease.
 
 <h3>Links</h3>
+
 [Jump to Visuals](#visuals)
 [Project Report](https://docs.google.com/document/d/1vkGTQSkREv0tr_6T0A1uZsOoI6HYsVyL/edit?usp=sharing&ouid=112011954964715598772&rtpof=true&sd=true)
 
@@ -86,13 +87,16 @@ Server and Connection Management
 </ul>
 
 <h3>Visuals</h3>
-<b>Frontend</b>
+
+<p><b>Frontend</b></p>
+
 <img width="735" height="385" alt="z_search_bar" src="https://github.com/user-attachments/assets/7e685569-ea65-4e7b-9f33-4afe275ec5e9" />
 <img width="730" height="373" alt="z_entrance_layer" src="https://github.com/user-attachments/assets/d231bbb9-ea88-4952-9388-e739c0720fab" />
 <img width="736" height="385" alt="z_mile_marker_layer" src="https://github.com/user-attachments/assets/d959d39f-28f9-4eac-a065-b8c70a8e156f" />
 <img width="733" height="370" alt="z_trail_layer" src="https://github.com/user-attachments/assets/62e8a593-0f76-4110-a392-1d01a5086362" />
 
 <b>backend</b>
+
 <img width="715" height="266" alt="image" src="https://github.com/user-attachments/assets/de15e597-d0ba-41fb-95bf-9161e0541733" />
 
 <p>First 5 records of the "entrances" table</p>
