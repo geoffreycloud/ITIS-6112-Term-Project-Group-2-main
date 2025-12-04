@@ -1,4 +1,5 @@
 <h1>Mecklenburg County Park & Greenway Explorer</h1>
+_Note: This web app is no longer supported._
 This project is a web-based interactive mapping application built to visualize and explore publicly available parks and recreation data in Mecklenburg County, NC. The frontend is powered by Leaflet.js for dynamic map rendering and geospatial layer control. Users can:
 <ul>
   <li>Filter data by feature-specific attributes</li>
